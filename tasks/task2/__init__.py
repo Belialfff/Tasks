@@ -1,0 +1,1 @@
+from tasks.task2.task3_2 import list_to_list
